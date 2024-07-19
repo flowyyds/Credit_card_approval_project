@@ -1,0 +1,400 @@
+ID,MONTHS_BALANCE,STATUS,ID,CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,DAYS_BIRTH,DAYS_EMPLOYED,FLAG_MOBIL,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS
+NULL,NULL,NULL,5008808,F,N,Y,0,270000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-19110,-3051,1,0,1,1,Sales staff,1
+NULL,NULL,NULL,5008815,M,Y,Y,0,270000,Working,Higher education,Married,House / apartment,-16872,-769,1,1,1,1,Accountants,2
+NULL,NULL,NULL,5010160,M,Y,Y,0,252000,Working,Secondary / secondary special,Married,House / apartment,-22117,-1621,1,0,1,1,Security staff,2
+NULL,NULL,NULL,5021756,F,Y,Y,0,432000,Commercial associate,Incomplete higher,Married,House / apartment,-12719,-1218,1,0,1,1,Managers,2
+NULL,NULL,NULL,5022620,M,Y,N,0,247500,State servant,Higher education,Married,With parents,-12118,-2313,1,1,1,1,Core staff,2
+NULL,NULL,NULL,5022858,F,N,N,0,202500,Working,Higher education,Single / not married,Rented apartment,-19586,-1309,1,0,1,1,Managers,1
+NULL,NULL,NULL,5024131,M,Y,N,0,202500,Working,Secondary / secondary special,Married,House / apartment,-8655,-1067,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5024977,M,N,N,0,360000,Working,Incomplete higher,Single / not married,Municipal apartment,-12375,-2773,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5024980,M,N,N,0,270000,Commercial associate,Secondary / secondary special,Married,House / apartment,-14255,-762,1,1,1,1,Drivers,2
+NULL,NULL,NULL,5028428,F,Y,Y,0,292500,Commercial associate,Higher education,Widow,House / apartment,-19148,-5744,1,0,1,1,NULL,1
+NULL,NULL,NULL,5028637,F,N,Y,0,450000,Commercial associate,Secondary / secondary special,Married,House / apartment,-16920,-9181,1,0,1,1,Managers,2
+NULL,NULL,NULL,5033594,F,Y,N,0,202500,Working,Secondary / secondary special,Married,House / apartment,-8959,-1815,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5036594,F,N,Y,1,270000,Working,Higher education,Separated,House / apartment,-15789,-8205,1,0,1,1,Medicine staff,2
+NULL,NULL,NULL,5056159,F,N,Y,0,216000,Working,Secondary / secondary special,Married,House / apartment,-18067,-6517,1,1,1,1,High skill tech staff,2
+NULL,NULL,NULL,5058290,F,N,Y,0,288000,Commercial associate,Secondary / secondary special,Widow,House / apartment,-16181,-117,1,0,1,1,Private service staff,1
+NULL,NULL,NULL,5066759,F,Y,Y,0,225000,Commercial associate,Higher education,Married,House / apartment,-19368,-3018,1,1,1,1,Sales staff,2
+NULL,NULL,NULL,5068108,F,N,Y,0,450000,State servant,Higher education,Single / not married,House / apartment,-20142,-3093,1,0,1,1,Core staff,1
+NULL,NULL,NULL,5068971,F,N,Y,0,292500,Working,Higher education,Single / not married,House / apartment,-17388,-1662,1,0,1,1,Managers,1
+NULL,NULL,NULL,5069237,M,Y,Y,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-14827,-4037,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,5089233,F,N,N,0,270000,State servant,Secondary / secondary special,Separated,House / apartment,-19363,-12332,1,0,1,1,Medicine staff,1
+NULL,NULL,NULL,5089271,F,Y,N,0,315000,Working,Higher education,Married,House / apartment,-13592,-3504,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5089722,F,N,N,0,315000,Commercial associate,Secondary / secondary special,Separated,House / apartment,-17617,-3262,1,1,1,1,Private service staff,1
+NULL,NULL,NULL,5090110,M,N,Y,0,360000,Working,Secondary / secondary special,Married,House / apartment,-17160,-1625,1,0,1,1,Managers,2
+NULL,NULL,NULL,5090213,F,Y,Y,1,225000,Working,Secondary / secondary special,Separated,House / apartment,-14597,-3869,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,5090404,F,Y,N,0,382500,Commercial associate,Higher education,Single / not married,House / apartment,-15297,-885,1,1,1,1,Managers,1
+NULL,NULL,NULL,5090529,F,Y,Y,0,288000,Working,Higher education,Married,House / apartment,-14550,-3239,1,0,1,1,Managers,2
+NULL,NULL,NULL,5090569,M,Y,Y,0,360000,Commercial associate,Higher education,Married,House / apartment,-21068,-7404,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5090666,F,N,Y,0,346500,Commercial associate,Higher education,Separated,House / apartment,-14890,-2410,1,0,1,1,NULL,1
+NULL,NULL,NULL,5090668,F,Y,Y,0,225000,Working,Higher education,Married,House / apartment,-15003,-2591,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5090685,F,Y,N,0,360000,Working,Higher education,Married,House / apartment,-12542,-4357,1,1,1,1,Managers,2
+NULL,NULL,NULL,5090988,M,Y,Y,0,405000,Working,Higher education,Married,House / apartment,-10323,-2622,1,1,1,1,Managers,2
+NULL,NULL,NULL,5096390,M,Y,N,0,391500,Commercial associate,Higher education,Single / not married,House / apartment,-21897,-3810,1,1,1,1,Managers,1
+NULL,NULL,NULL,5100084,M,N,N,0,252000,Commercial associate,Secondary / secondary special,Single / not married,With parents,-14283,-6823,1,0,1,1,Drivers,1
+NULL,NULL,NULL,5111191,F,N,Y,0,216000,Working,Secondary / secondary special,Married,House / apartment,-18873,-12169,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5113073,F,N,Y,0,225000,State servant,Secondary / secondary special,Separated,House / apartment,-19690,-12423,1,0,1,1,Medicine staff,1
+NULL,NULL,NULL,5113754,M,Y,Y,0,202500,Working,Higher education,Married,House / apartment,-19385,-6675,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5113929,M,N,N,0,202500,Working,Incomplete higher,Single / not married,House / apartment,-15744,-4365,1,1,1,1,NULL,1
+NULL,NULL,NULL,5113976,M,Y,N,0,270000,Working,Incomplete higher,Married,House / apartment,-11955,-893,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5125214,M,N,Y,0,675000,Commercial associate,Higher education,Married,House / apartment,-17754,-1109,1,1,1,1,Managers,2
+NULL,NULL,NULL,5125607,F,N,N,0,202500,Working,Secondary / secondary special,Separated,House / apartment,-15607,-3240,1,1,1,1,High skill tech staff,1
+NULL,NULL,NULL,5125867,M,Y,N,0,315000,Working,Higher education,Married,House / apartment,-20546,-11183,1,0,1,1,NULL,2
+NULL,NULL,NULL,5126025,M,Y,N,0,306000,Working,Incomplete higher,Civil marriage,House / apartment,-11548,-1656,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5139739,M,N,Y,0,202500,Working,Higher education,Married,With parents,-9672,-2654,1,0,1,1,NULL,2
+NULL,NULL,NULL,5140141,M,N,N,0,450000,Working,Secondary / secondary special,Married,House / apartment,-18326,-2897,1,1,1,1,Managers,2
+NULL,NULL,NULL,5142651,M,Y,N,0,225000,Commercial associate,Secondary / secondary special,Married,Rented apartment,-10763,-1473,1,1,1,1,NULL,2
+NULL,NULL,NULL,5143156,F,Y,N,0,652500,Working,Higher education,Single / not married,House / apartment,-19137,-349,1,1,1,1,Managers,1
+NULL,NULL,NULL,5149296,F,Y,Y,0,247500,Commercial associate,Higher education,Married,House / apartment,-14462,-1871,1,0,1,1,NULL,2
+NULL,NULL,NULL,5155739,F,N,Y,0,225000,Commercial associate,Higher education,Married,House / apartment,-13822,-6054,1,0,1,1,NULL,2
+NULL,NULL,NULL,5159564,M,Y,Y,0,360000,Commercial associate,Secondary / secondary special,Married,House / apartment,-14084,-1895,1,0,1,1,NULL,2
+NULL,NULL,NULL,5170537,M,Y,N,0,225000,Working,Secondary / secondary special,Married,House / apartment,-19646,-3010,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5177694,M,N,Y,0,337500,Commercial associate,Higher education,Single / not married,Municipal apartment,-11067,-2670,1,0,1,1,Managers,1
+NULL,NULL,NULL,5197069,M,Y,N,0,270000,Commercial associate,Incomplete higher,Married,House / apartment,-10122,-1570,1,0,1,1,NULL,2
+NULL,NULL,NULL,5197691,M,N,Y,0,472500,Commercial associate,Secondary / secondary special,Married,House / apartment,-16789,-1694,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5197714,F,N,Y,1,202500,State servant,Higher education,Single / not married,House / apartment,-10054,-1176,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,5205636,M,Y,Y,0,270000,Commercial associate,Higher education,Married,House / apartment,-17892,-2603,1,0,1,1,Managers,2
+NULL,NULL,NULL,5224085,M,Y,N,0,360000,State servant,Higher education,Married,House / apartment,-15361,-643,1,0,1,1,NULL,2
+NULL,NULL,NULL,5235669,F,Y,Y,0,405000,Commercial associate,Higher education,Civil marriage,House / apartment,-18094,-2136,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,5235776,F,Y,Y,0,292500,Working,Secondary / secondary special,Separated,House / apartment,-18253,-8772,1,0,1,1,NULL,1
+NULL,NULL,NULL,5236317,M,Y,Y,0,225000,Working,Higher education,Married,House / apartment,-16749,-7766,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5236671,M,N,N,0,225000,Commercial associate,Higher education,Widow,House / apartment,-21612,-1468,1,1,1,1,NULL,1
+NULL,NULL,NULL,5236878,M,Y,N,0,495000,Working,Higher education,Separated,House / apartment,-14183,-3659,1,0,1,1,Managers,1
+NULL,NULL,NULL,5242034,F,Y,Y,1,225000,Working,Secondary / secondary special,Widow,House / apartment,-12291,-3073,1,0,1,1,NULL,2
+NULL,NULL,NULL,5242091,F,Y,Y,1,270000,Working,Higher education,Separated,House / apartment,-11429,-396,1,0,1,1,NULL,2
+NULL,NULL,NULL,5242346,F,N,Y,0,279000,Commercial associate,Higher education,Civil marriage,House / apartment,-10480,-3257,1,0,1,1,Managers,2
+NULL,NULL,NULL,5242843,F,N,Y,0,216000,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-16585,-5291,1,0,1,1,Managers,2
+NULL,NULL,NULL,5254509,M,Y,N,0,202500,Working,Secondary / secondary special,Married,House / apartment,-23702,-1470,1,1,1,1,NULL,2
+NULL,NULL,NULL,5268199,M,N,Y,0,405000,Commercial associate,Higher education,Single / not married,House / apartment,-13918,-710,1,0,1,1,IT staff,1
+NULL,NULL,NULL,5268648,M,Y,Y,0,405000,Working,Secondary / secondary special,Married,House / apartment,-16330,-3907,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5268765,M,Y,Y,0,270000,Working,Higher education,Married,House / apartment,-13237,-2573,1,0,1,1,Managers,2
+NULL,NULL,NULL,5290861,M,N,N,0,292500,Commercial associate,Higher education,Married,House / apartment,-17847,-2914,1,0,1,1,Managers,2
+NULL,NULL,NULL,5296404,M,N,N,0,202500,Commercial associate,Incomplete higher,Single / not married,House / apartment,-16742,-3186,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5296472,M,N,N,0,292500,Working,Secondary / secondary special,Separated,House / apartment,-17574,-718,1,0,1,1,NULL,1
+NULL,NULL,NULL,5297523,M,Y,N,0,270000,Working,Higher education,Married,House / apartment,-10866,-1188,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,5307345,M,Y,N,0,405000,Commercial associate,Higher education,Married,With parents,-12683,-1510,1,0,1,1,NULL,2
+NULL,NULL,NULL,5313491,M,N,Y,0,400500,Working,Secondary / secondary special,Married,House / apartment,-18733,-3696,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5313661,F,N,Y,0,247500,Working,Secondary / secondary special,Married,House / apartment,-19868,-3543,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5313707,M,Y,Y,0,211500,Working,Secondary / secondary special,Married,House / apartment,-19074,-12341,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5322570,F,Y,N,0,270000,Commercial associate,Higher education,Separated,House / apartment,-12919,-2599,1,1,1,1,Sales staff,1
+NULL,NULL,NULL,5343781,F,N,Y,0,270000,Working,Secondary / secondary special,Married,House / apartment,-15048,-153,1,0,1,1,NULL,2
+NULL,NULL,NULL,5343850,F,N,Y,0,319500,Working,Secondary / secondary special,Widow,Municipal apartment,-20171,-7154,1,1,1,1,NULL,1
+NULL,NULL,NULL,5352612,F,N,N,0,247500,Working,Higher education,Married,House / apartment,-10521,-2762,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,5353117,F,N,N,0,202500,Working,Secondary / secondary special,Civil marriage,House / apartment,-17440,-3622,1,1,1,1,Sales staff,2
+NULL,NULL,NULL,5354300,M,Y,Y,0,274500,Commercial associate,Higher education,Married,House / apartment,-22901,-1004,1,0,1,1,Managers,2
+NULL,NULL,NULL,5369613,M,N,Y,0,247500,Working,Higher education,Single / not married,House / apartment,-21546,-2847,1,1,1,1,Laborers,1
+NULL,NULL,NULL,5388657,M,N,Y,0,225000,Working,Higher education,Married,House / apartment,-13622,-3593,1,1,1,1,Managers,2
+NULL,NULL,NULL,5403262,M,Y,N,0,315000,Working,Higher education,Single / not married,House / apartment,-19570,-3655,1,0,1,1,High skill tech staff,1
+NULL,NULL,NULL,5416673,F,N,Y,0,270000,Working,Higher education,Single / not married,House / apartment,-18450,-4402,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5454104,M,Y,N,0,337500,Commercial associate,Higher education,Married,House / apartment,-11009,-1103,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,5465095,M,Y,N,0,225000,Working,Secondary / secondary special,Married,House / apartment,-11936,-428,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5535562,F,Y,Y,0,360000,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-8776,-1392,1,0,1,1,NULL,2
+NULL,NULL,NULL,5535619,M,Y,Y,0,202500,State servant,Incomplete higher,Married,House / apartment,-9544,-477,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5536841,F,N,Y,0,387000,Working,Higher education,Single / not married,House / apartment,-19043,-5346,1,0,1,1,Core staff,1
+NULL,NULL,NULL,5541575,F,N,Y,0,202500,Commercial associate,Higher education,Married,House / apartment,-9937,-452,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5548025,F,Y,Y,0,315000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-16943,-617,1,0,1,1,NULL,1
+NULL,NULL,NULL,5548069,F,Y,Y,0,292500,Commercial associate,Higher education,Civil marriage,House / apartment,-17487,-7526,1,1,1,1,Managers,2
+NULL,NULL,NULL,5548095,M,Y,Y,0,360000,Commercial associate,Secondary / secondary special,Civil marriage,Municipal apartment,-19140,-2351,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5548409,M,Y,Y,0,270000,Working,Secondary / secondary special,Married,House / apartment,-20820,-2200,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,5549144,M,Y,Y,0,292500,Working,Secondary / secondary special,Single / not married,House / apartment,-19381,-4270,1,0,1,1,Core staff,1
+NULL,NULL,NULL,5579318,F,N,Y,0,315000,Commercial associate,Secondary / secondary special,Married,House / apartment,-15545,-2649,1,0,1,1,Managers,2
+NULL,NULL,NULL,5579889,F,Y,Y,1,225000,Working,Higher education,Separated,House / apartment,-14126,-3652,1,1,1,1,NULL,2
+NULL,NULL,NULL,5584909,M,Y,N,0,414000,Commercial associate,Incomplete higher,Civil marriage,With parents,-11659,-1156,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,5599129,M,Y,Y,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-16886,-3622,1,0,1,1,NULL,2
+NULL,NULL,NULL,5609360,M,N,Y,0,270000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-21045,-1345,1,1,1,1,Drivers,1
+NULL,NULL,NULL,5618828,F,N,Y,0,225000,State servant,Secondary / secondary special,Married,House / apartment,-16043,-2311,1,1,1,1,Medicine staff,2
+NULL,NULL,NULL,5625763,F,N,Y,0,247500,Working,Secondary / secondary special,Single / not married,House / apartment,-8048,-561,1,0,1,1,Sales staff,1
+NULL,NULL,NULL,5625852,M,Y,Y,0,243000,Commercial associate,Higher education,Separated,House / apartment,-17050,-135,1,1,1,1,Core staff,1
+NULL,NULL,NULL,5627434,F,N,N,0,225000,Commercial associate,Secondary / secondary special,Widow,House / apartment,-22245,-8953,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5628246,F,N,N,0,292500,Commercial associate,Secondary / secondary special,Separated,House / apartment,-18717,-3018,1,0,1,1,Sales staff,1
+NULL,NULL,NULL,5628570,M,N,N,0,450000,Commercial associate,Incomplete higher,Married,House / apartment,-17106,-1588,1,1,1,1,Managers,2
+NULL,NULL,NULL,5633485,M,N,N,0,337500,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-16630,-348,1,1,1,1,NULL,2
+NULL,NULL,NULL,5636845,M,N,Y,0,270000,Commercial associate,Secondary / secondary special,Married,House / apartment,-14735,-5081,1,1,1,1,Sales staff,2
+NULL,NULL,NULL,5668598,M,Y,Y,0,202500,Commercial associate,Higher education,Married,House / apartment,-12187,-4583,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5678176,M,Y,Y,0,405000,Commercial associate,Higher education,Married,House / apartment,-20938,-2711,1,0,1,1,Managers,2
+NULL,NULL,NULL,5680712,F,N,N,0,337500,Working,Higher education,Married,House / apartment,-22394,-14151,1,1,1,1,Core staff,2
+NULL,NULL,NULL,5680833,F,Y,Y,0,202500,Commercial associate,Higher education,Single / not married,House / apartment,-8409,-330,1,0,1,1,Core staff,1
+NULL,NULL,NULL,5683859,M,Y,Y,0,202500,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-10697,-3079,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5690604,M,N,Y,0,315000,Working,Higher education,Married,House / apartment,-17803,-3438,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5692416,M,N,N,0,270000,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-13377,-1905,1,1,1,1,Managers,2
+NULL,NULL,NULL,5702211,F,Y,N,0,270000,Commercial associate,Higher education,Civil marriage,Municipal apartment,-11930,-617,1,0,1,1,Managers,2
+NULL,NULL,NULL,5702611,F,N,Y,0,450000,Commercial associate,Higher education,Married,With parents,-14103,-252,1,1,1,1,NULL,2
+NULL,NULL,NULL,5709014,M,N,Y,0,225000,Commercial associate,Higher education,Single / not married,Municipal apartment,-9882,-2878,1,0,1,1,Core staff,1
+NULL,NULL,NULL,5727541,F,N,Y,0,360000,State servant,Secondary / secondary special,Married,House / apartment,-19599,-9715,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5731220,M,N,Y,0,292500,Working,Higher education,Married,House / apartment,-14349,-926,1,1,1,1,NULL,2
+NULL,NULL,NULL,5735518,F,Y,N,0,225000,State servant,Higher education,Civil marriage,House / apartment,-9730,-298,1,1,1,1,Core staff,2
+NULL,NULL,NULL,5735954,M,Y,N,0,360000,Working,Higher education,Married,House / apartment,-18601,-1213,1,1,1,1,High skill tech staff,2
+NULL,NULL,NULL,5735987,M,N,N,0,225000,Working,Secondary / secondary special,Married,House / apartment,-16362,-6630,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5736654,F,N,N,0,202500,Commercial associate,Higher education,Separated,House / apartment,-13818,-3220,1,1,1,1,Managers,1
+NULL,NULL,NULL,5738443,M,N,Y,0,234000,Commercial associate,Secondary / secondary special,Married,House / apartment,-19176,-1254,1,0,1,1,Security staff,2
+NULL,NULL,NULL,5738513,M,Y,Y,0,270000,Working,Higher education,Civil marriage,House / apartment,-10255,-1848,1,1,1,1,Accountants,2
+NULL,NULL,NULL,5739432,F,N,Y,0,202500,Working,Secondary / secondary special,Separated,House / apartment,-15381,-3583,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5743557,F,N,Y,0,324000,Commercial associate,Higher education,Widow,House / apartment,-23553,-7174,1,0,1,1,Accountants,1
+NULL,NULL,NULL,5744468,F,N,Y,0,540000,Commercial associate,Higher education,Married,House / apartment,-12998,-3606,1,0,1,1,NULL,2
+NULL,NULL,NULL,5759262,M,Y,N,0,360000,Commercial associate,Secondary / secondary special,Married,House / apartment,-10788,-648,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5769182,M,Y,N,0,225000,Commercial associate,Higher education,Single / not married,With parents,-10308,-850,1,0,1,1,NULL,1
+NULL,NULL,NULL,5770918,F,Y,Y,0,405000,Commercial associate,Higher education,Married,House / apartment,-19782,-3247,1,0,1,1,Managers,2
+NULL,NULL,NULL,5771832,M,Y,Y,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-14014,-3612,1,1,1,1,Managers,2
+NULL,NULL,NULL,5785264,M,Y,Y,0,900000,State servant,Academic degree,Separated,House / apartment,-20469,-7036,1,0,1,1,Core staff,1
+NULL,NULL,NULL,5789188,F,Y,N,1,675000,Commercial associate,Higher education,Separated,House / apartment,-14984,-1251,1,0,1,1,NULL,2
+NULL,NULL,NULL,5795969,F,Y,N,0,450000,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-12399,-1468,1,0,1,1,NULL,1
+NULL,NULL,NULL,5796494,M,N,Y,0,315000,Working,Secondary / secondary special,Single / not married,House / apartment,-14964,-1302,1,1,1,1,Laborers,1
+NULL,NULL,NULL,5796925,F,N,Y,0,270000,State servant,Secondary / secondary special,Married,House / apartment,-19619,-7845,1,0,1,1,NULL,2
+NULL,NULL,NULL,5822631,F,Y,N,0,382500,Working,Secondary / secondary special,Single / not married,House / apartment,-18111,-3551,1,1,1,1,Managers,1
+NULL,NULL,NULL,5823346,M,N,Y,0,270000,Commercial associate,Higher education,Married,House / apartment,-15870,-507,1,0,1,1,Managers,2
+NULL,NULL,NULL,5824722,M,N,Y,0,220500,Working,Higher education,Separated,House / apartment,-21200,-5593,1,1,1,1,High skill tech staff,1
+NULL,NULL,NULL,5825540,M,Y,Y,0,202500,Working,Higher education,Married,House / apartment,-10994,-4110,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5829753,M,Y,Y,0,472500,Commercial associate,Higher education,Married,House / apartment,-21701,-8013,1,0,1,1,Managers,2
+NULL,NULL,NULL,5829925,M,Y,N,0,450000,Commercial associate,Higher education,Married,House / apartment,-20524,-2900,1,0,1,1,Managers,2
+NULL,NULL,NULL,5832378,F,N,Y,0,292500,Commercial associate,Higher education,Widow,House / apartment,-22117,-304,1,0,1,1,High skill tech staff,1
+NULL,NULL,NULL,5833152,F,N,Y,0,675000,Commercial associate,Higher education,Married,House / apartment,-17592,-1205,1,0,1,1,NULL,2
+NULL,NULL,NULL,5833688,F,Y,Y,0,360000,Working,Higher education,Married,House / apartment,-16409,-4402,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5837156,M,Y,N,0,225000,Working,Secondary / secondary special,Married,House / apartment,-12776,-2081,1,1,1,1,Drivers,2
+NULL,NULL,NULL,5838269,F,N,Y,1,297000,Working,Higher education,Separated,House / apartment,-13809,-6864,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5838332,F,N,Y,0,202500,Commercial associate,Secondary / secondary special,Married,House / apartment,-18560,-1020,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,5852270,F,N,N,0,225000,Working,Secondary / secondary special,Married,House / apartment,-13771,-7085,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5857319,M,Y,Y,0,225000,Commercial associate,Higher education,Civil marriage,House / apartment,-16150,-1569,1,0,1,1,Drivers,2
+NULL,NULL,NULL,5858608,F,N,Y,0,202500,Working,Secondary / secondary special,Married,House / apartment,-19874,-12042,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5859002,M,N,Y,0,270000,Working,Incomplete higher,Single / not married,House / apartment,-9891,-572,1,1,1,1,High skill tech staff,1
+NULL,NULL,NULL,5868012,F,N,Y,0,225000,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-17144,-9710,1,1,1,1,NULL,2
+NULL,NULL,NULL,5868027,F,N,Y,0,202500,Working,Higher education,Married,House / apartment,-17567,-4042,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5868666,M,Y,N,0,382500,Commercial associate,Higher education,Civil marriage,Municipal apartment,-10754,-694,1,0,1,1,Managers,2
+NULL,NULL,NULL,5873035,M,N,Y,0,382500,State servant,Higher education,Married,House / apartment,-18474,-5422,1,1,1,1,Managers,2
+NULL,NULL,NULL,5884590,F,Y,Y,0,247500,Working,Secondary / secondary special,Married,House / apartment,-13789,-2376,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5891427,M,N,Y,0,270000,Commercial associate,Secondary / secondary special,Married,House / apartment,-12636,-914,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5906531,M,Y,N,1,315000,Working,Higher education,Single / not married,House / apartment,-12315,-4560,1,1,1,1,Accountants,2
+NULL,NULL,NULL,5907675,M,N,Y,0,202500,Working,Incomplete higher,Married,House / apartment,-10366,-2887,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5918408,F,N,N,0,202500,Commercial associate,Higher education,Married,House / apartment,-11011,-1053,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5918521,F,N,Y,0,450000,Commercial associate,Secondary / secondary special,Married,House / apartment,-17314,-5477,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5918664,M,Y,Y,1,495000,State servant,Higher education,Single / not married,House / apartment,-15149,-5355,1,0,1,1,Managers,2
+NULL,NULL,NULL,5918675,F,Y,Y,0,211500,Working,Secondary / secondary special,Married,House / apartment,-17973,-3286,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5918800,F,Y,N,0,324000,State servant,Secondary / secondary special,Married,House / apartment,-16867,-515,1,1,1,1,Laborers,2
+NULL,NULL,NULL,5918918,M,Y,Y,0,360000,Working,Higher education,Married,House / apartment,-21224,-210,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,5919230,F,Y,Y,0,360000,Working,Incomplete higher,Married,House / apartment,-14788,-5050,1,1,1,1,NULL,2
+NULL,NULL,NULL,5929977,F,N,Y,0,247500,Working,Higher education,Civil marriage,House / apartment,-19762,-1510,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5931586,M,Y,Y,0,270000,Commercial associate,Secondary / secondary special,Married,House / apartment,-20539,-1697,1,0,1,1,NULL,2
+NULL,NULL,NULL,5931713,F,N,Y,0,211500,Working,Secondary / secondary special,Widow,House / apartment,-18730,-3401,1,1,1,1,Managers,1
+NULL,NULL,NULL,5932121,M,Y,Y,0,562500,Commercial associate,Incomplete higher,Separated,House / apartment,-15767,-5593,1,0,1,1,Managers,1
+NULL,NULL,NULL,5943206,F,N,Y,0,270000,Commercial associate,Higher education,Married,House / apartment,-21578,-6848,1,0,1,1,Accountants,2
+NULL,NULL,NULL,5949909,F,N,Y,0,405000,Working,Higher education,Civil marriage,House / apartment,-21119,-12660,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5957841,F,Y,Y,0,405000,Working,Secondary / secondary special,Separated,House / apartment,-18232,-303,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5970892,F,Y,Y,0,450000,Commercial associate,Secondary / secondary special,Married,House / apartment,-15290,-5452,1,0,1,1,Managers,2
+NULL,NULL,NULL,5971324,M,N,N,0,360000,Working,Secondary / secondary special,Civil marriage,Co-op apartment,-14038,-1405,1,1,1,1,Drivers,2
+NULL,NULL,NULL,5971785,F,Y,N,0,193500,Working,Higher education,Married,With parents,-10319,-3313,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5975871,F,N,Y,0,315000,State servant,Secondary / secondary special,Civil marriage,Municipal apartment,-18646,-7686,1,0,1,1,Medicine staff,2
+NULL,NULL,NULL,5980369,F,Y,Y,0,270000,Working,Higher education,Married,House / apartment,-13546,-6942,1,0,1,1,Managers,2
+NULL,NULL,NULL,5980436,F,Y,Y,0,225000,Working,Secondary / secondary special,Single / not married,House / apartment,-20853,-3776,1,0,1,1,Laborers,1
+NULL,NULL,NULL,5981440,F,N,N,1,225000,State servant,Secondary / secondary special,Separated,Municipal apartment,-15943,-9026,1,0,1,1,Medicine staff,2
+NULL,NULL,NULL,5992871,M,Y,Y,0,270000,Working,Secondary / secondary special,Single / not married,House / apartment,-11737,-495,1,0,1,1,Secretaries,1
+NULL,NULL,NULL,5992917,F,Y,Y,0,270000,Working,Higher education,Married,House / apartment,-19571,-5396,1,0,1,1,Managers,2
+NULL,NULL,NULL,5993252,F,Y,Y,0,243000,Commercial associate,Secondary / secondary special,Married,House / apartment,-19426,-4731,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5993621,F,Y,Y,0,261000,Commercial associate,Secondary / secondary special,Married,House / apartment,-16604,-1088,1,1,1,1,Accountants,2
+NULL,NULL,NULL,5994811,F,N,Y,0,315000,Working,Higher education,Civil marriage,House / apartment,-10608,-3446,1,0,1,1,Managers,2
+NULL,NULL,NULL,5995121,M,N,N,0,247500,State servant,Higher education,Single / not married,House / apartment,-15668,-3103,1,0,1,1,Managers,1
+NULL,NULL,NULL,5995467,F,N,Y,0,405000,Commercial associate,Higher education,Married,House / apartment,-17116,-7654,1,0,1,1,Managers,2
+NULL,NULL,NULL,5995591,M,Y,Y,0,202500,Working,Secondary / secondary special,Married,House / apartment,-17371,-2510,1,0,1,1,Managers,2
+NULL,NULL,NULL,5996030,F,Y,Y,1,315000,State servant,Higher education,Single / not married,House / apartment,-12878,-894,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5998449,M,Y,N,0,211500,Commercial associate,Secondary / secondary special,Married,House / apartment,-9791,-947,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,6007188,M,Y,Y,0,540000,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-11253,-3026,1,0,1,1,Managers,2
+NULL,NULL,NULL,6007233,F,N,Y,0,247500,Working,Secondary / secondary special,Separated,House / apartment,-19052,-802,1,0,1,1,NULL,1
+NULL,NULL,NULL,6007332,F,Y,Y,0,360000,State servant,Secondary / secondary special,Married,House / apartment,-17031,-10117,1,1,1,1,Managers,2
+NULL,NULL,NULL,6007374,F,Y,N,0,270000,Working,Higher education,Civil marriage,House / apartment,-17152,-925,1,0,1,1,Managers,2
+NULL,NULL,NULL,6007473,M,N,Y,0,315000,Commercial associate,Higher education,Married,House / apartment,-15821,-2568,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6014226,M,Y,Y,0,202500,Commercial associate,Secondary / secondary special,Married,House / apartment,-19474,-6011,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6021113,M,Y,Y,0,261000,Working,Higher education,Married,House / apartment,-11396,-3241,1,1,1,1,Managers,2
+NULL,NULL,NULL,6032235,F,Y,N,0,202500,State servant,Higher education,Single / not married,House / apartment,-15043,-5207,1,1,1,1,Core staff,1
+NULL,NULL,NULL,6033148,M,Y,N,0,270000,Working,Secondary / secondary special,Married,House / apartment,-14565,-3337,1,1,1,1,NULL,2
+NULL,NULL,NULL,6046487,F,N,Y,0,202500,Working,Secondary / secondary special,Single / not married,House / apartment,-8830,-882,1,0,1,1,Laborers,1
+NULL,NULL,NULL,6046516,F,N,N,0,225000,State servant,Secondary / secondary special,Married,Municipal apartment,-19852,-5296,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6047269,F,N,Y,1,270000,Working,Higher education,Single / not married,House / apartment,-17200,-1187,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6053069,F,Y,Y,0,315000,Commercial associate,Higher education,Married,House / apartment,-17142,-914,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6053188,M,Y,Y,0,675000,Commercial associate,Secondary / secondary special,Married,House / apartment,-20914,-7854,1,0,1,1,Managers,2
+NULL,NULL,NULL,6061250,M,N,N,0,225000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-15673,-2385,1,0,1,1,Managers,1
+NULL,NULL,NULL,6063375,M,Y,N,0,441000,Working,Secondary / secondary special,Married,With parents,-14379,-1585,1,1,1,1,Drivers,2
+NULL,NULL,NULL,6065143,F,Y,Y,0,202500,Working,Secondary / secondary special,Civil marriage,House / apartment,-19128,-9875,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,6070917,M,Y,N,0,315000,Working,Higher education,Single / not married,House / apartment,-10414,-1876,1,0,1,1,Managers,1
+NULL,NULL,NULL,6073918,F,N,Y,0,337500,Working,Secondary / secondary special,Married,House / apartment,-19071,-389,1,1,1,1,Laborers,2
+NULL,NULL,NULL,6074059,M,Y,Y,0,202500,State servant,Higher education,Married,House / apartment,-12585,-3008,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6078724,M,Y,N,0,202500,Working,Secondary / secondary special,Married,Rented apartment,-11627,-3365,1,0,1,1,NULL,2
+NULL,NULL,NULL,6079792,M,Y,Y,0,292500,Commercial associate,Higher education,Married,House / apartment,-9821,-3183,1,1,1,1,High skill tech staff,2
+NULL,NULL,NULL,6082329,F,N,N,1,450000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-14082,-4045,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6088019,M,Y,Y,0,292500,Working,Secondary / secondary special,Civil marriage,House / apartment,-16337,-2397,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6089506,F,N,Y,1,292500,Working,Secondary / secondary special,Single / not married,House / apartment,-15913,-9035,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6090071,F,N,Y,0,256500,Commercial associate,Higher education,Single / not married,House / apartment,-13357,-5625,1,0,1,1,NULL,1
+NULL,NULL,NULL,6098551,F,N,N,0,225000,Commercial associate,Higher education,Married,House / apartment,-10904,-4025,1,0,1,1,Managers,2
+NULL,NULL,NULL,6099423,F,N,Y,0,202500,Commercial associate,Higher education,Married,House / apartment,-15300,-677,1,1,1,1,Managers,2
+NULL,NULL,NULL,6099966,M,N,Y,0,270000,Commercial associate,Higher education,Married,Municipal apartment,-10396,-1323,1,0,1,1,NULL,2
+NULL,NULL,NULL,6106624,M,N,N,0,202500,Working,Incomplete higher,Single / not married,With parents,-8196,-1269,1,0,1,1,NULL,1
+NULL,NULL,NULL,6107607,F,Y,Y,0,360000,Working,Higher education,Married,House / apartment,-14361,-3125,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6108558,M,Y,N,0,216000,Working,Secondary / secondary special,Single / not married,House / apartment,-9842,-996,1,0,1,1,Laborers,1
+NULL,NULL,NULL,6119895,F,N,N,0,225000,Working,Higher education,Married,House / apartment,-10825,-285,1,0,1,1,NULL,2
+NULL,NULL,NULL,6121144,F,Y,N,0,270000,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-21327,-2387,1,1,1,1,Managers,2
+NULL,NULL,NULL,6121156,M,Y,N,0,315000,Working,Secondary / secondary special,Married,House / apartment,-20282,-11427,1,0,1,1,NULL,2
+NULL,NULL,NULL,6121584,F,Y,N,0,360000,Working,Secondary / secondary special,Married,House / apartment,-16667,-469,1,1,1,1,Laborers,2
+NULL,NULL,NULL,6122211,M,N,Y,0,247500,Working,Secondary / secondary special,Single / not married,House / apartment,-13091,-502,1,1,1,1,Laborers,1
+NULL,NULL,NULL,6122820,F,Y,Y,0,238500,Commercial associate,Higher education,Married,House / apartment,-17173,-2611,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6122917,M,Y,N,0,270000,Commercial associate,Higher education,Married,House / apartment,-16988,-1760,1,0,1,1,Managers,2
+NULL,NULL,NULL,6133828,F,Y,Y,0,315000,Commercial associate,Higher education,Widow,House / apartment,-21069,-2152,1,0,1,1,Managers,1
+NULL,NULL,NULL,6140064,F,N,Y,0,243000,State servant,Higher education,Married,House / apartment,-20302,-11595,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6140156,F,Y,Y,1,225000,Working,Higher education,Single / not married,House / apartment,-15717,-729,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6140698,F,N,N,0,225000,Commercial associate,Higher education,Married,House / apartment,-10446,-2279,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6140839,F,Y,Y,0,256500,State servant,Higher education,Married,House / apartment,-17219,-10407,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6141176,F,N,Y,0,225000,Working,Higher education,Married,House / apartment,-10863,-955,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6153450,M,Y,Y,0,270000,Commercial associate,Incomplete higher,Single / not married,House / apartment,-10673,-3962,1,0,1,1,Laborers,1
+NULL,NULL,NULL,6161385,M,N,Y,0,270000,Commercial associate,Incomplete higher,Married,House / apartment,-16119,-464,1,0,1,1,Managers,2
+NULL,NULL,NULL,6161470,F,N,Y,0,315000,State servant,Secondary / secondary special,Single / not married,House / apartment,-15869,-9049,1,0,1,1,High skill tech staff,1
+NULL,NULL,NULL,6162520,M,N,Y,0,247500,Commercial associate,Secondary / secondary special,Married,House / apartment,-16782,-4228,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6189701,M,Y,Y,0,279000,Working,Higher education,Civil marriage,House / apartment,-17961,-2885,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6207937,M,N,Y,0,450000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-11774,-197,1,0,1,1,Sales staff,1
+NULL,NULL,NULL,6208645,F,Y,Y,0,198000,Working,Higher education,Married,House / apartment,-15529,-3058,1,1,1,1,Accountants,2
+NULL,NULL,NULL,6209126,F,N,N,0,306000,Commercial associate,Higher education,Married,Municipal apartment,-23453,-2907,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6210483,F,Y,N,0,270000,Working,Secondary / secondary special,Married,House / apartment,-15887,-2060,1,1,1,1,Managers,2
+NULL,NULL,NULL,6222909,M,Y,Y,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-11059,-2721,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6223056,F,N,N,0,216000,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-16133,-3888,1,1,1,1,NULL,2
+NULL,NULL,NULL,6231541,F,N,Y,0,315000,Commercial associate,Higher education,Married,House / apartment,-12984,-3478,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6234559,F,Y,N,0,292500,Working,Higher education,Single / not married,House / apartment,-14906,-2150,1,0,1,1,Accountants,1
+NULL,NULL,NULL,6234620,M,N,Y,0,270000,State servant,Higher education,Married,House / apartment,-17929,-1816,1,1,1,1,Managers,2
+NULL,NULL,NULL,6235015,M,Y,Y,0,202500,Working,Secondary / secondary special,Married,House / apartment,-14839,-6199,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6239913,F,N,N,0,202500,Commercial associate,Higher education,Married,Municipal apartment,-14204,-531,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6240818,F,N,Y,1,225000,Working,Higher education,Separated,House / apartment,-14754,-1483,1,0,1,1,Managers,2
+NULL,NULL,NULL,6241245,M,N,Y,0,202500,Working,Secondary / secondary special,Married,House / apartment,-20635,-2277,1,1,1,1,Laborers,2
+NULL,NULL,NULL,6241255,M,N,N,1,450000,Commercial associate,Incomplete higher,Separated,With parents,-11490,-1305,1,0,1,1,Managers,2
+NULL,NULL,NULL,6241448,M,Y,Y,0,225000,Working,Secondary / secondary special,Single / not married,House / apartment,-10884,-3309,1,0,1,1,Laborers,1
+NULL,NULL,NULL,6241619,M,N,Y,0,360000,Commercial associate,Higher education,Married,House / apartment,-19652,-4740,1,0,1,1,NULL,2
+NULL,NULL,NULL,6242117,F,N,Y,0,360000,Working,Incomplete higher,Married,House / apartment,-15610,-8763,1,0,1,1,Managers,2
+NULL,NULL,NULL,6242128,F,Y,Y,0,247500,Commercial associate,Higher education,Married,House / apartment,-13983,-2614,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6242491,M,Y,Y,0,225000,Commercial associate,Higher education,Single / not married,House / apartment,-17566,-3373,1,0,1,1,Realty agents,1
+NULL,NULL,NULL,6242844,F,N,N,0,202500,Working,Incomplete higher,Single / not married,House / apartment,-8266,-205,1,0,1,1,Core staff,1
+NULL,NULL,NULL,6247487,M,N,Y,0,225000,Working,Incomplete higher,Married,Municipal apartment,-10698,-1262,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6247583,F,N,Y,0,193500,State servant,Higher education,Single / not married,House / apartment,-15522,-2965,1,0,1,1,High skill tech staff,1
+NULL,NULL,NULL,6261937,F,N,Y,0,234000,State servant,Higher education,Civil marriage,House / apartment,-9182,-750,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6262314,F,N,Y,0,450000,Working,Higher education,Married,House / apartment,-12574,-2213,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6262577,F,N,N,0,225000,Commercial associate,Secondary / secondary special,Separated,Municipal apartment,-19146,-4465,1,0,1,1,NULL,1
+NULL,NULL,NULL,6262714,F,N,N,0,315000,Working,Higher education,Single / not married,House / apartment,-22392,-631,1,1,1,1,NULL,1
+NULL,NULL,NULL,6262849,F,Y,N,0,346500,Commercial associate,Secondary / secondary special,Married,House / apartment,-19576,-9640,1,1,1,1,Accountants,2
+NULL,NULL,NULL,6263876,F,N,Y,0,382500,Working,Secondary / secondary special,Married,House / apartment,-15747,-1605,1,1,1,1,Sales staff,2
+NULL,NULL,NULL,6272467,F,N,Y,0,225000,Commercial associate,Higher education,Married,House / apartment,-23126,-449,1,0,1,1,Managers,2
+NULL,NULL,NULL,6273654,M,N,Y,0,193500,Working,Secondary / secondary special,Married,House / apartment,-9962,-2816,1,1,1,1,Sales staff,2
+NULL,NULL,NULL,6276812,F,N,Y,0,288000,Working,Secondary / secondary special,Married,House / apartment,-19476,-5766,1,0,1,1,NULL,2
+NULL,NULL,NULL,6277576,F,Y,Y,1,270000,Working,Secondary / secondary special,Single / not married,House / apartment,-15090,-1536,1,0,1,1,NULL,2
+NULL,NULL,NULL,6291607,F,N,Y,0,202500,Working,Higher education,Married,House / apartment,-20619,-7567,1,0,1,1,Medicine staff,2
+NULL,NULL,NULL,6297024,M,N,N,0,202500,State servant,Incomplete higher,Single / not married,House / apartment,-9041,-875,1,1,1,1,High skill tech staff,1
+NULL,NULL,NULL,6311525,M,Y,Y,0,333000,Working,Higher education,Married,House / apartment,-11021,-3368,1,0,1,1,Managers,2
+NULL,NULL,NULL,6312293,M,N,Y,0,315000,Working,Higher education,Married,House / apartment,-14381,-538,1,0,1,1,NULL,2
+NULL,NULL,NULL,6336212,M,Y,Y,0,225000,State servant,Secondary / secondary special,Separated,House / apartment,-13255,-88,1,0,1,1,Drivers,1
+NULL,NULL,NULL,6340056,F,Y,N,0,450000,Commercial associate,Higher education,Civil marriage,House / apartment,-9564,-1660,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6367649,F,Y,Y,0,202500,Working,Higher education,Married,House / apartment,-17661,-9373,1,0,1,1,Core staff,2
+NULL,NULL,NULL,6371840,F,N,Y,0,315000,Commercial associate,Secondary / secondary special,Married,With parents,-11478,-514,1,0,1,1,NULL,2
+NULL,NULL,NULL,6390644,M,N,Y,0,270000,Commercial associate,Secondary / secondary special,Married,House / apartment,-16309,-6597,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6391044,F,N,Y,0,360000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-19183,-4679,1,0,1,1,Core staff,1
+NULL,NULL,NULL,6391196,M,N,Y,0,540000,Working,Higher education,Married,House / apartment,-16489,-266,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,6391367,F,Y,Y,0,382500,Commercial associate,Higher education,Married,House / apartment,-16052,-1658,1,0,1,1,NULL,2
+NULL,NULL,NULL,6394839,M,Y,Y,0,382500,Working,Higher education,Married,With parents,-14695,-1551,1,1,1,1,NULL,2
+NULL,NULL,NULL,6396625,M,Y,Y,1,315000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-13303,-3347,1,1,1,1,Drivers,2
+NULL,NULL,NULL,6398376,M,Y,Y,0,436500,Commercial associate,Higher education,Married,House / apartment,-21392,-5529,1,1,1,1,Managers,2
+NULL,NULL,NULL,6410094,F,N,N,0,292500,Commercial associate,Higher education,Married,House / apartment,-15933,-3149,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6415204,F,N,Y,0,945000,Working,Higher education,Civil marriage,House / apartment,-17787,-4068,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6416411,F,N,N,0,247500,Commercial associate,Incomplete higher,Single / not married,House / apartment,-20239,-4170,1,1,1,1,NULL,1
+NULL,NULL,NULL,6423502,M,Y,Y,0,202500,Working,Secondary / secondary special,Civil marriage,House / apartment,-17031,-3562,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6423759,M,Y,Y,0,342000,Commercial associate,Secondary / secondary special,Married,House / apartment,-17511,-4839,1,0,1,1,NULL,2
+NULL,NULL,NULL,6429046,M,N,Y,0,225000,Working,Higher education,Married,House / apartment,-19101,-2675,1,1,1,1,Managers,2
+NULL,NULL,NULL,6430879,M,Y,N,0,315000,Working,Higher education,Married,House / apartment,-11406,-545,1,1,1,1,Managers,2
+NULL,NULL,NULL,6447414,F,N,Y,0,270000,State servant,Higher education,Married,House / apartment,-19730,-4777,1,0,1,1,Managers,2
+NULL,NULL,NULL,6448420,M,Y,Y,0,225000,Working,Secondary / secondary special,Married,House / apartment,-18401,-6727,1,0,1,1,Medicine staff,2
+NULL,NULL,NULL,6460034,M,Y,N,0,202500,State servant,Secondary / secondary special,Married,House / apartment,-14622,-534,1,1,1,1,Drivers,2
+NULL,NULL,NULL,6460228,M,N,N,0,202500,Working,Secondary / secondary special,Single / not married,Municipal apartment,-13445,-2179,1,0,1,1,Laborers,1
+NULL,NULL,NULL,6470175,M,N,N,0,270000,Working,Secondary / secondary special,Single / not married,House / apartment,-17833,-751,1,1,1,1,NULL,1
+NULL,NULL,NULL,6471830,F,Y,Y,0,360000,Commercial associate,Higher education,Married,House / apartment,-16565,-2702,1,0,1,1,Managers,2
+NULL,NULL,NULL,6472754,M,Y,Y,1,315000,Commercial associate,Higher education,Separated,Rented apartment,-11389,-329,1,0,1,1,Managers,2
+NULL,NULL,NULL,6480388,F,N,Y,0,225000,Commercial associate,Higher education,Separated,House / apartment,-19347,-5741,1,0,1,1,Managers,1
+NULL,NULL,NULL,6481309,F,N,Y,1,247500,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,-17632,-10731,1,0,1,1,NULL,2
+NULL,NULL,NULL,6481732,F,Y,N,0,270000,State servant,Higher education,Married,House / apartment,-10575,-1846,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6481756,F,Y,N,0,360000,Working,Secondary / secondary special,Civil marriage,House / apartment,-17359,-3154,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,6484917,M,Y,Y,0,202500,Working,Higher education,Civil marriage,House / apartment,-21847,-931,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6498542,M,N,Y,0,202500,Commercial associate,Higher education,Married,House / apartment,-9329,-1331,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,6498665,M,Y,Y,0,315000,State servant,Higher education,Single / not married,House / apartment,-17198,-2000,1,0,1,1,Core staff,1
+NULL,NULL,NULL,6498812,M,N,N,0,247500,Working,Higher education,Single / not married,House / apartment,-11660,-723,1,1,1,1,Drivers,1
+NULL,NULL,NULL,6508535,F,Y,Y,0,337500,Commercial associate,Higher education,Married,House / apartment,-18023,-638,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6509149,F,N,Y,0,225000,Commercial associate,Higher education,Civil marriage,House / apartment,-9747,-1234,1,0,1,1,NULL,2
+NULL,NULL,NULL,6544237,M,Y,N,0,315000,Working,Higher education,Single / not married,House / apartment,-8757,-733,1,1,1,1,Managers,1
+NULL,NULL,NULL,6570765,M,Y,N,0,202500,Commercial associate,Incomplete higher,Married,House / apartment,-9780,-2193,1,0,1,1,NULL,2
+NULL,NULL,NULL,6575658,F,N,Y,0,360000,Commercial associate,Higher education,Married,House / apartment,-10003,-3099,1,0,1,1,NULL,2
+NULL,NULL,NULL,6602138,F,N,Y,0,202500,Commercial associate,Higher education,Married,House / apartment,-15945,-6631,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6604384,F,N,Y,0,202500,Working,Secondary / secondary special,Married,House / apartment,-20116,-589,1,0,1,1,Cleaning staff,2
+NULL,NULL,NULL,6604520,F,Y,N,0,1125000,Working,Secondary / secondary special,Married,House / apartment,-19869,-1959,1,0,1,1,Managers,2
+NULL,NULL,NULL,6604643,M,Y,Y,0,1350000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-17345,-4819,1,0,1,1,Core staff,1
+NULL,NULL,NULL,6605207,M,Y,N,0,270000,Working,Secondary / secondary special,Married,House / apartment,-17335,-8688,1,1,1,1,Laborers,2
+NULL,NULL,NULL,6605452,M,Y,N,1,225000,Working,Secondary / secondary special,Separated,House / apartment,-15286,-13,1,0,1,1,Managers,2
+NULL,NULL,NULL,6612698,M,Y,Y,0,427500,Commercial associate,Higher education,Married,House / apartment,-18315,-1266,1,0,1,1,Managers,2
+NULL,NULL,NULL,6617891,F,Y,Y,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-18604,-10711,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6618338,M,Y,Y,0,225000,Working,Secondary / secondary special,Married,House / apartment,-16292,-8827,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6624648,M,Y,Y,0,202500,Working,Higher education,Single / not married,House / apartment,-11706,-274,1,0,1,1,Sales staff,1
+NULL,NULL,NULL,6637181,F,Y,Y,0,270000,Commercial associate,Secondary / secondary special,Married,House / apartment,-18787,-2431,1,1,1,1,Managers,2
+NULL,NULL,NULL,6637925,M,N,Y,0,202500,Commercial associate,Secondary / secondary special,Married,House / apartment,-14261,-5598,1,0,1,1,Managers,2
+NULL,NULL,NULL,6651955,F,Y,N,0,360000,Commercial associate,Higher education,Married,House / apartment,-13271,-2917,1,1,1,1,Managers,2
+NULL,NULL,NULL,6671244,M,N,Y,0,202500,Working,Higher education,Single / not married,House / apartment,-15354,-1058,1,0,1,1,High skill tech staff,1
+NULL,NULL,NULL,6688555,F,N,Y,0,202500,Working,Higher education,Civil marriage,House / apartment,-10022,-448,1,0,1,1,Accountants,2
+NULL,NULL,NULL,6688910,M,Y,Y,0,202500,Commercial associate,Incomplete higher,Married,House / apartment,-13076,-1798,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6690055,F,N,N,1,445500,Working,Higher education,Single / not married,House / apartment,-11796,-642,1,1,1,1,Managers,2
+NULL,NULL,NULL,6692679,F,N,Y,0,202500,Working,Higher education,Single / not married,House / apartment,-20675,-4354,1,0,1,1,Core staff,1
+NULL,NULL,NULL,6711355,F,N,Y,0,360000,State servant,Higher education,Married,House / apartment,-22054,-5929,1,0,1,1,NULL,2
+NULL,NULL,NULL,6723534,M,Y,Y,0,234000,Working,Secondary / secondary special,Married,House / apartment,-18562,-5128,1,0,1,1,Drivers,2
+NULL,NULL,NULL,6723754,M,N,Y,0,405000,Commercial associate,Higher education,Single / not married,House / apartment,-17561,-1535,1,1,1,1,Managers,1
+NULL,NULL,NULL,6731134,F,Y,N,0,202500,Commercial associate,Higher education,Married,House / apartment,-17082,-2280,1,0,1,1,Managers,2
+NULL,NULL,NULL,6737240,M,N,Y,0,225000,State servant,Higher education,Married,House / apartment,-8516,-1719,1,0,1,1,NULL,2
+NULL,NULL,NULL,6743346,F,N,Y,0,202500,Commercial associate,Higher education,Single / not married,House / apartment,-19782,-6795,1,0,1,1,Core staff,1
+NULL,NULL,NULL,6744825,F,Y,Y,0,283500,Commercial associate,Secondary / secondary special,Married,House / apartment,-16827,-245,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6747934,M,Y,Y,0,450000,Commercial associate,Higher education,Married,House / apartment,-20166,-5587,1,0,1,1,Managers,2
+NULL,NULL,NULL,6755710,M,Y,N,0,270000,Commercial associate,Higher education,Married,House / apartment,-14314,-679,1,1,1,1,NULL,2
+NULL,NULL,NULL,6759424,M,Y,N,0,270000,Commercial associate,Secondary / secondary special,Civil marriage,With parents,-12329,-2518,1,0,1,1,Sales staff,2
+NULL,NULL,NULL,6763663,M,Y,Y,0,270000,Working,Higher education,Married,House / apartment,-11911,-3312,1,0,1,1,Managers,2
+NULL,NULL,NULL,6780251,M,Y,N,1,270000,Working,Secondary / secondary special,Single / not married,Municipal apartment,-12637,-3391,1,0,1,1,NULL,2
+NULL,NULL,NULL,6800959,F,N,Y,0,225000,Working,Higher education,Married,House / apartment,-21429,-2770,1,1,1,1,High skill tech staff,2
+NULL,NULL,NULL,6837827,F,Y,Y,0,585000,Commercial associate,Secondary / secondary special,Married,House / apartment,-20933,-2828,1,1,1,1,Secretaries,2
+NULL,NULL,NULL,6841691,F,N,Y,0,270000,State servant,Secondary / secondary special,Married,House / apartment,-15510,-1833,1,0,1,1,Medicine staff,2
+NULL,NULL,NULL,7679242,F,N,Y,0,405000,Working,Higher education,Separated,House / apartment,-17735,-3263,1,1,1,1,NULL,1
+NULL,NULL,NULL,7806819,M,N,N,0,225000,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-9937,-278,1,0,1,1,Laborers,1
+NULL,NULL,NULL,7208291,M,N,Y,0,225000,Commercial associate,Lower secondary,Separated,Rented apartment,-16825,-1794,1,0,1,1,Laborers,1
+NULL,NULL,NULL,7047390,M,Y,N,0,211500,Working,Secondary / secondary special,Married,House / apartment,-13223,-791,1,1,1,1,Security staff,2
+NULL,NULL,NULL,7008546,F,Y,N,0,220500,State servant,Secondary / secondary special,Married,Municipal apartment,-21163,-13214,1,0,1,1,Drivers,2
+NULL,NULL,NULL,7198176,M,Y,Y,0,225000,Working,Secondary / secondary special,Married,House / apartment,-21914,-7871,1,1,1,1,NULL,2
+NULL,NULL,NULL,7796131,M,Y,Y,0,427500,State servant,Secondary / secondary special,Married,House / apartment,-17475,-2427,1,0,1,1,NULL,2
+NULL,NULL,NULL,7943466,M,Y,N,0,427500,Working,Incomplete higher,Married,House / apartment,-14059,-828,1,1,1,1,NULL,2
+NULL,NULL,NULL,7727083,M,Y,Y,0,450000,Commercial associate,Higher education,Married,Municipal apartment,-14327,-919,1,1,1,1,Managers,2
+NULL,NULL,NULL,7670849,M,Y,Y,0,495000,Working,Higher education,Single / not married,House / apartment,-15479,-4984,1,0,1,1,Managers,1
+NULL,NULL,NULL,7429971,M,N,N,1,765000,Working,Higher education,Separated,House / apartment,-16855,-5231,1,0,1,1,Accountants,2
+NULL,NULL,NULL,7243281,F,Y,N,0,315000,Working,Higher education,Married,With parents,-11554,-3558,1,1,1,1,Accountants,2
+NULL,NULL,NULL,7633472,F,N,N,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-15613,-286,1,0,1,1,Cleaning staff,2
+NULL,NULL,NULL,7339849,F,N,N,1,225000,State servant,Higher education,Single / not married,House / apartment,-11906,-2147,1,1,1,1,NULL,2
+NULL,NULL,NULL,7780791,F,N,N,0,382500,Working,Higher education,Married,House / apartment,-18229,-3027,1,1,1,1,Managers,2
+NULL,NULL,NULL,7771058,F,N,Y,0,225000,Working,Secondary / secondary special,Married,House / apartment,-17710,-1756,1,0,1,1,Managers,2
+NULL,NULL,NULL,7106721,F,Y,Y,0,247500,Commercial associate,Secondary / secondary special,Married,House / apartment,-20143,-4433,1,0,1,1,Core staff,2
+NULL,NULL,NULL,7548908,M,N,Y,0,427500,Commercial associate,Higher education,Single / not married,House / apartment,-15798,-4117,1,0,1,1,Laborers,1
+NULL,NULL,NULL,7223644,F,Y,Y,0,450000,Working,Higher education,Married,House / apartment,-15530,-1393,1,0,1,1,Managers,2
+NULL,NULL,NULL,7889721,F,Y,N,0,202500,Commercial associate,Higher education,Civil marriage,Municipal apartment,-10172,-220,1,0,1,1,NULL,2
+NULL,NULL,NULL,7090364,F,N,Y,0,202500,State servant,Higher education,Widow,House / apartment,-16024,-8912,1,1,1,1,Secretaries,1
+NULL,NULL,NULL,7730988,M,N,Y,0,270000,Working,Secondary / secondary special,Single / not married,House / apartment,-11208,-279,1,0,1,1,IT staff,1
+NULL,NULL,NULL,7987665,F,N,Y,0,337500,Commercial associate,Incomplete higher,Separated,House / apartment,-20693,-3729,1,0,1,1,NULL,1
+NULL,NULL,NULL,7685879,F,N,Y,0,225000,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-10818,-1030,1,0,1,1,Private service staff,2
+NULL,NULL,NULL,7231374,F,N,Y,0,315000,Working,Higher education,Single / not married,House / apartment,-17049,-1164,1,0,1,1,Core staff,1
+NULL,NULL,NULL,7996593,M,N,Y,1,270000,Working,Secondary / secondary special,Single / not married,House / apartment,-15239,-915,1,0,1,1,Core staff,2
+NULL,NULL,NULL,7062114,M,Y,Y,0,310500,Working,Secondary / secondary special,Married,House / apartment,-17067,-1720,1,0,1,1,High skill tech staff,2
+NULL,NULL,NULL,7065002,F,Y,Y,0,234000,Commercial associate,Secondary / secondary special,Married,House / apartment,-10718,-2083,1,0,1,1,Managers,2
+NULL,NULL,NULL,7480937,F,Y,Y,1,270000,Working,Higher education,Single / not married,House / apartment,-17975,-3153,1,1,1,1,Core staff,2
+NULL,NULL,NULL,7089460,F,Y,Y,0,675000,Working,Higher education,Single / not married,House / apartment,-18560,-937,1,0,1,1,Managers,1
+NULL,NULL,NULL,7586602,F,N,N,0,292500,Working,Higher education,Married,House / apartment,-13237,-5307,1,0,1,1,Core staff,2
+NULL,NULL,NULL,7996544,M,Y,Y,0,225000,Commercial associate,Secondary / secondary special,Married,House / apartment,-17564,-1524,1,1,1,1,Drivers,2
+NULL,NULL,NULL,7713181,F,N,Y,0,202500,Working,Higher education,Married,House / apartment,-10261,-3079,1,1,1,1,NULL,2
+NULL,NULL,NULL,5105056,M,Y,N,0,225000,Commercial associate,Higher education,Single / not married,Municipal apartment,-11528,-606,1,0,1,1,High skill tech staff,1
+NULL,NULL,NULL,5677499,M,Y,N,0,247500,Working,Higher education,Married,House / apartment,-19902,-488,1,0,1,1,Laborers,2
+NULL,NULL,NULL,5791702,M,Y,Y,0,459000,Commercial associate,Higher education,Married,House / apartment,-17812,-2044,1,0,1,1,Core staff,2
+NULL,NULL,NULL,5863869,F,N,N,0,202500,Commercial associate,Higher education,Married,House / apartment,-21019,-5353,1,1,1,1,Managers,2
+NULL,NULL,NULL,6048285,M,Y,Y,0,364500,Working,Higher education,Married,House / apartment,-14553,-337,1,1,1,1,Managers,2
+NULL,NULL,NULL,6074307,M,N,Y,0,247500,Working,Secondary / secondary special,Separated,House / apartment,-16984,-6023,1,0,1,1,Cooking staff,1
+NULL,NULL,NULL,6099075,M,Y,Y,0,247500,Commercial associate,Higher education,Married,House / apartment,-19160,-4512,1,0,1,1,Laborers,2
+NULL,NULL,NULL,6161390,M,N,N,0,270000,Commercial associate,Incomplete higher,Married,House / apartment,-16119,-464,1,0,1,1,Managers,2
+NULL,NULL,NULL,6172345,M,Y,N,0,360000,Working,Secondary / secondary special,Married,House / apartment,-17663,-7919,1,1,1,1,NULL,2
+NULL,NULL,NULL,6213504,M,N,Y,0,450000,Commercial associate,Higher education,Single / not married,House / apartment,-11961,-269,1,1,1,1,NULL,1
+NULL,NULL,NULL,6423560,M,Y,N,0,256500,Commercial associate,Higher education,Married,House / apartment,-21326,-912,1,0,1,1,Security staff,2
+NULL,NULL,NULL,6510391,M,Y,Y,0,315000,Working,Secondary / secondary special,Married,House / apartment,-20345,-4561,1,0,1,1,Managers,2
+NULL,NULL,NULL,6629567,F,N,N,0,225000,Working,Higher education,Married,House / apartment,-19632,-1750,1,0,1,1,Managers,2
